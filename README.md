@@ -21,6 +21,8 @@ playing through **Legend of Zelda: Echoes of Wisdom**.
 3. I have traveled to at least five different countries: Germany, the United Kingdom, Turkey,
 Tunisia, and Libya (my home land! 🇱🇾)
 
+4. I am an avid tea drinker! My favorite teas are matcha and North African tea (think dark, mint tea) 🍵 
+
 ## Current Programs
 
 C/C++, Java, R, Python
