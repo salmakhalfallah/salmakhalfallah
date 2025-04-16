@@ -16,15 +16,15 @@ I hope to align my studies accordingly. Learning more about the people around me
 dream!
 
 2. When I'm not solving math problems or coding, I'm usually playing video games. I am currently
-playing through **Legend of Zelda: Echoes of Wisdom**. 
+playing through **Legend of Zelda: Breath of the Wild**. 
 
 3. I have traveled to at least five different countries: Germany, the United Kingdom, Turkey,
 Tunisia, and Libya (my home land! 🇱🇾)
 
-4. I am an avid tea drinker! My favorite teas are matcha and North African tea (think dark, mint tea) 🍵 
+4. I am an avid tea drinker! My favorite teas are matcha, honey meade, and North African tea (think dark, mint tea) 🍵 
 
 ## Current Programs
 
-C/C++, Java, R, Python
+Java, R, Python, MySQL
 
 ![](https://i.pinimg.com/originals/fb/03/8c/fb038c9d39ed13ab401512e9f87d6fa1.gif)
